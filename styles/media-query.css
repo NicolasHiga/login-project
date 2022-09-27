@@ -16,9 +16,10 @@
         height: 100%;
     }
 
-    section#login > div#formumlario {
+    section#login > div#formulario {
         float: right;
         width: 70%;
+        height: 100%;
     }
 }
 
@@ -38,7 +39,7 @@
         height: 100%;
     }
 
-    section#login > div#formumlario {
+    section#login > div#formulario {
         float: left;
         width: 50%;
     }
